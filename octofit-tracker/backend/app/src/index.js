@@ -1,4 +1,5 @@
 
+// Ensure all imports are present and in correct order
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
